@@ -45,5 +45,5 @@ services:
 
 databases:
   - name: n8nDB
-    region: frankfurt # optional (defaults to oregon)
+    region: oregon # optional (defaults to oregon)
     plan: free
