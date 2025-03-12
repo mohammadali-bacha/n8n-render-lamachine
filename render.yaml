@@ -45,5 +45,4 @@ services:
 
 databases:
   - name: n8nDB
-    region: oregon # optional (defaults to oregon)
     plan: free
