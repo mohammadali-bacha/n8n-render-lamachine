@@ -2,7 +2,6 @@ services:
   - type: web
     name: n8n
     env: docker
-    region: frankfurt # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     branch: main # optional (defaults to master)
     numInstances: 1
